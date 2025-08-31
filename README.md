@@ -1,5 +1,7 @@
 # About me
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Farhan Anwar Wali, and I am a DSA enthusiast from India</h2>
+🔭I am currently learning FastAPI<br>📖I am studying DSA in Java and am interested in AI and ML<br>😶‍🌫️I am also good at SolidWorks!!
+
 
 ###
 
