@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="150" src="images/Loki.jpg"  />
+<img align="right" height="150" src="Loki.jpg"  />
 
 ###
 
