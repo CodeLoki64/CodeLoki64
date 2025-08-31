@@ -39,6 +39,7 @@
 
 ###
 
+# Commit Calendar
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/CodeLoki64/CodeLoki64/output/snake.svg" alt="Snake animation" />
