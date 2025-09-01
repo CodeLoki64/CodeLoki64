@@ -18,7 +18,7 @@
   <img src="https://streak-stats.demolab.com?user=CodeLoki64&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=25" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeLoki64&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=21&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeLoki64&theme=synthwave-84&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&bg_color=A0F1E&line=00FF9F&color=76FF7A&title_color=FF073A&area_color=39FF14&radius=25&point=FF3131" height="150" alt="activity-graph graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeLoki64&theme=synthwave-84&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&bg_color=A0F1E&line=00FF9F&color=76FF7A&title_color=FF073A&area_color=39FF14&radius=25&point=FF3131" height="300" alt="activity-graph graph"  />
   </div>
 </div>
 
