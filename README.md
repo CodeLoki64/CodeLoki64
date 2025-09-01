@@ -1,23 +1,25 @@
 # About me
 <h2 align="left">Hi 👋! My name is Farhan Anwar Wali, and I am a DSA enthusiast from India</h2>
-🔭I am currently learning FastAPI<br>📖I am studying DSA in Java and am interested in AI and ML<br>😶‍🌫️I am also good at SolidWorks!!
+🔭I am currently learning FastAPI<br>📖I am studying DSA in Java and am interested in AI and ML<br>😶‍🌫️I am also good at SolidWorks!!<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeLoki64.CodeLoki64&"  />
+</div>
 
 
 ###
 
 # 📊 GitHub Stats:
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeLoki64&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app?user=CodeLoki64&theme=radical&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLoki64&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeLoki64.CodeLoki64&"  />
-</div>
+
 
 ###
 
